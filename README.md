@@ -67,3 +67,23 @@ Forecast **num_orders** for upcoming 10 weeks so fulfillment centers can plan ra
    ```bash
    git clone https://github.com/Dhanalakshmi-S645/Food-Demand-Forecasting.git
    cd Food-Demand-Forecasting
+
+2. Install required libraries
+   pip install pandas numpy matplotlib seaborn lightgbm xgboost optuna scikit-learn
+
+3.open the notebook
+  jupyter notebook "Food_Demand_Forecasting(Finall).ipynb
+
+🌟 Highlights & Business Impact
+
+Rice Bowl (Indian) dominates most peak weeks — especially in TYPE_A centers with promotions
+Promotions lift demand significantly — appear in nearly all top predictions
+TYPE_A centers (premium locations) consistently show highest average predicted orders
+City code 590 appears most often — major demand hub
+
+Real-world value: Accurate forecasts help centers order exact raw materials → reduce waste by 15–20% → save money & help the environment.
+
+
+🙏 Thank You for Visiting!
+If you like this project, feel free to ⭐ the repo or fork it.
+Feedback, suggestions, or questions are always welcome!
